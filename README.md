@@ -39,7 +39,7 @@ Genomic data visualization
 
 # Portfolio Website
 The portfolio website can be accessed at:
-https://janpaula.github.io
+[https://janpaula.github.io](https://janpaula.github.io/janpaula/)
 
 # Purpose
 This project aims to:
