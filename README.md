@@ -1,37 +1,61 @@
-## Project Overview
+## Jan Paula - Bioinformatics Portfolio
+This repository hosts my personal scientific portfolio built with GitHub Pages.
+The website works as a digital research card, presenting selected bioinformatics and genomics projects developed during my studies and independent research.
+The goal of this portfolio is to showcase practical applications of computational biology, genomic data analysis, and data visualization.
 
-This repository presents a bioinformatics workflow for the analysis of SARS-CoV-2 genomic variants using Next Generation Sequencing (NGS) data.
+# Research Interests
+Bioinformatics
+Genomics
+Variant Analysis
+Viral Genomics
+Neurogenetics and Neurodiversity
+Computational Biology
 
-The project focuses on identifying and visualizing genetic variants across the viral genome, enabling the exploration of mutation patterns and allele frequency distributions.
+# Featured Projects
 
-The analysis includes genomic coverage visualization, mutation distribution along the genome and allele frequency analysis using tools from the R and Bioconductor ecosystem.
+This portfolio highlights some of my main repositories hosted on GitHub.
 
-This type of workflow is useful for viral genomic surveillance and for understanding the molecular evolution of SARS-CoV-2.
+# ArbovigilR
 
-## Main Analyses
+Tools for genomic surveillance and analysis of arboviruses using R.
 
-The pipeline includes:
+Neurodiversidade
 
-- Variant extraction from VCF files
-- Genome coverage visualization
-- Mutation distribution along the viral genome
-- Manhattan plot of genomic variants
-- Allele frequency histogram
+Exploratory analysis and resources related to neurodevelopment and genomics.
 
-## Tools and Packages
+NGS Analysis Variant Ebola
 
-The analysis was developed using:
+Pipeline and visualization for variant detection in Ebola virus sequencing data.
 
-- **R**
-- **Bioconductor**
-- **VariantAnnotation**
-- **Gviz**
-- **ggplot2**
+SARS-CoV-2 Genome Analysis
 
-These tools allow efficient processing and visualization of genomic sequencing data.
+Bioinformatics workflow for variant identification, coverage visualization, and genomic data exploration.
 
-## Scientific Context
+🧰 Tools and Technologies
+R
+Bioconductor
+VariantAnnotation
+Gviz
+ggplot2
+Next Generation Sequencing (NGS) analysis
+Genomic data visualization
 
-Genomic surveillance of viruses plays an essential role in monitoring viral evolution and identifying emerging mutations. Computational approaches enable researchers to process large-scale sequencing data and detect patterns that may have epidemiological or biological relevance.
+🌐 Portfolio Website
 
-This project demonstrates how bioinformatics tools can be used to explore viral genomic variation through reproducible computational workflows.
+The portfolio website can be accessed at:
+https://janpaula.github.io
+
+🎯 Purpose
+
+This project aims to:
+
+Present my work in bioinformatics and genomics
+Demonstrate practical experience with genomic data analysis
+Provide a central hub linking my most relevant repositories
+Serve as a professional portfolio for academic and research opportunities
+📬 Contact
+
+For collaborations, research opportunities, or questions:
+
+GitHub:
+https://github.com/janpaula
