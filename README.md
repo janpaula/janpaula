@@ -27,6 +27,9 @@ Pipeline and visualization for variant detection in Ebola virus sequencing data.
 ## SARS-CoV-2 Genome Analysis
 Bioinformatics workflow for variant identification, coverage visualization, and genomic data exploration.
 
+## HCMV Variant Detection and Genomic Visualization Pipeline
+Bioinformatics analysis of Human Cytomegalovirus (HCMV) sequencing data to detect, annotate, and visualize genomic variants.
+
 
 # Tools and Technologies
 R
