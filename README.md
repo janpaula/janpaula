@@ -30,6 +30,11 @@ Bioinformatics workflow for variant identification, coverage visualization, and 
 ## HCMV Variant Detection and Genomic Visualization Pipeline
 Bioinformatics analysis of Human Cytomegalovirus (HCMV) sequencing data to detect, annotate, and visualize genomic variants.
 
+## RNA-Seq Analysis: Gene Expression in Autism Spectrum Disorder (ASD)
+Bioinformatic analysis based on a study investigating gene expression signatures in the cerebral cortex of individuals with Autism Spectrum Disorder.
+This project focused on identifying differentially expressed genes (DEGs) and classifying them according to their biological roles into 
+   three main categories: Neuronal, Inflammatory and Mixed.
+
 
 # Tools and Technologies
 R
