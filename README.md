@@ -35,15 +35,42 @@ Bioinformatic analysis based on a study investigating gene expression signatures
 This project focused on identifying differentially expressed genes (DEGs) and classifying them according to their biological roles into 
    three main categories: Neuronal, Inflammatory and Mixed.
 
+## Primer Design and In Silico Validation
+This project focused on the design and in silico validation of PCR and qPCR primers targeting the human gene involved in neuronal signaling, synaptic plasticity, cognition, learning, memory, and neurodevelopment.
 
-# Tools and Technologies
-R
-Bioconductor
-VariantAnnotation
-Gviz
-ggplot2
-Next Generation Sequencing (NGS) analysis
-Genomic data visualization
+
+## Tools & Technologies
+
+### Programming
+- R
+- Python
+
+### Bioinformatics Packages
+- Bioconductor
+- VariantAnnotation
+- Gviz
+- ggplot2
+
+### Molecular Biology & Primer Design
+- Primer-BLAST
+- PerlPrimer
+- IDT OligoAnalyzer
+
+### Genomic Databases
+- NCBI Gene
+- RefSeq
+- UniProt
+
+### Sequence Analysis
+- MAFFT
+- BLAST
+
+### Genomics & NGS
+- Next Generation Sequencing (NGS) Analysis
+- Variant Calling
+- Genomic Data Visualization
+- Gene Expression Analysis
+
 
 # Portfolio Website
 The portfolio website can be accessed at:
